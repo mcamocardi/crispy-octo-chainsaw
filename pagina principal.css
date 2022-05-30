@@ -1,0 +1,80 @@
+body {
+    background-size: cover;
+    text-align: justify;
+    padding-top: 20px;
+    border-width: 10px;
+    border-color:rgb(152, 223, 205);
+    border-style:solid;
+    padding: 40px;
+    color: rgb(9, 92, 64);
+    }
+
+header {
+    size: 200px;
+    background-size: 300px;
+    color: rgb(16, 90, 86);
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+nav {
+    color:aliceblue;
+    background-color: rgb(226, 218, 108);
+    text-align:inherit;
+}
+nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    color:rgb(16, 90, 86)
+    text-decoration: none;
+    te
+}
+
+h2{
+    background-image: url(consult.jpg);
+    background-repeat: no-repeat;
+    border-image-source: -moz-radial-gradient(10px);
+    align-items: center;
+}
+
+form{
+    text-align: justify;
+}
+div {
+     
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+footer {
+    background-color: rgb(18, 139, 123);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+h3{
+    text-align: center;
+}
+
+aside{
+   float:inline-end; 
+
+}
